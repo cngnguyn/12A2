@@ -28,9 +28,9 @@ body {
 	/* background-position: center; */
 	--color-text: #ffffff;
     --color-bg: #fffcfc;
-    --color-link: #47b1b3;
+    --color-link: #fafcfc;
 	--color-link-hover: #fff;
-	--color-content-title-sub: #5ae6e1;
+	--color-content-title-sub: #e6e8e8;
     color: var(--color-text);
     background-color: var(--color-bg);
     --cursor-stroke: #47a6a6;
@@ -259,7 +259,17 @@ a:focus {
 	grid-area: 35 / 4 / 48 / 15;
 }
 
+.pos-8 {
+	grid-area: 37 / 18 / 47 / 27;
+}
 
+.pos-9 {
+	grid-area: 23 / 30 / 41 / 37;
+}
+
+.pos-10 {
+ 	grid-area: 37 / 39 / 48 / 48;
+}
 
 .content__title {
 	font-family: myFont;
