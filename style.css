@@ -43,7 +43,7 @@ body {
 
 body::after {
 	content: "";
-	background: url("/img/img10.jpg");
+	background: url("/img/img3.jpg");
 	background-position: center;
 	opacity: 0.6;
 	top: 0;
