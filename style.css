@@ -259,17 +259,7 @@ a:focus {
 	grid-area: 35 / 4 / 48 / 15;
 }
 
-.pos-8 {
-	grid-area: 37 / 18 / 47 / 27;
-}
 
-.pos-9 {
-	grid-area: 23 / 30 / 41 / 37;
-}
-
-.pos-10 {
- 	grid-area: 37 / 39 / 48 / 48;
-}
 
 .content__title {
 	font-family: myFont;
